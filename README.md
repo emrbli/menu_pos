@@ -1,6 +1,8 @@
-# menu_pos
+# Flutter Restaurant Menu App
 
-A new Flutter project.
+Only the following external libraries are used in this project;
+
+- [YAML: 3.1.0](https://pub.dev/packages/yaml)
 
 ## Getting Started
 
